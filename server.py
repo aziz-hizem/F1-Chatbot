@@ -8,16 +8,20 @@ import pandas as pd
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from symspellpy import SymSpell, Verbosity
+from spellchecker import SpellChecker
 
-# Initialize SymSpell
-sym_spell = SymSpell(max_dictionary_edit_distance=2)
-sym_spell.load_dictionary("https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt", 0, 1)
 
-# Function to correct typos
+# function to correct typos
+#def correct_text_SymSpell(text):
+    #suggestions = sym_spell.lookup(text, Verbosity.CLOSEST, max_edit_distance=2)
+    #return suggestions[0].term if suggestions else text
+
+spell = SpellChecker()
+#  fuunction to correct typos
 def correct_text(text):
-    suggestions = sym_spell.lookup(text, Verbosity.CLOSEST, max_edit_distance=2)
-    return suggestions[0].term if suggestions else text
+    words = text.split()
+    corrected_words = [spell.correction(word) if spell.correction(word) is not None else word for word in words]
+    return ' '.join(corrected_words)
 
 app = FastAPI()
 
@@ -67,10 +71,6 @@ tokenizer = DistilBertTokenizer.from_pretrained(model_path)
 model = DistilBertForSequenceClassification.from_pretrained(model_path)
 model.eval()
 
-# Define request body
-class Query(BaseModel):
-    question: str
-
 # Mapping labels back to intents
 labels = [
     'get_teams_in_year',
@@ -112,7 +112,7 @@ async def get_intent(query: Query):
     elif intent == "get_teams_in_year" and year:
         response = get_teams_in_year(year, datasets['results.csv'], datasets['races.csv'], datasets['constructors.csv'])
     elif intent == "get_driver_wins":
-        driver_name = query.corrected_question.replace("How many wins does", "").replace("have?", "").strip()
+        driver_name = corrected_question.replace("How many wins does", "").replace("have?", "").strip()
         response = get_driver_wins(driver_name, datasets['results.csv'], datasets['drivers.csv'])
     elif intent == "get_driver_with_most_wins":
         response = get_driver_with_most_wins(datasets['results.csv'], datasets['drivers.csv'])

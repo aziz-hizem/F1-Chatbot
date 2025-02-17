@@ -19,3 +19,6 @@ env/
 # Ignore IDE-specific files
 .vscode/
 .idea/
+
+# Other
+desktop.ini

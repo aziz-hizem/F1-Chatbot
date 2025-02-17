@@ -1,0 +1,10 @@
+fastapi==0.115.8
+numpy==2.2.3
+pandas==2.2.3
+pydantic==2.10.6
+pyspellchecker==0.8.2
+scikit_learn==1.6.1
+torch==2.6.0
+transformers==4.48.3
+
+

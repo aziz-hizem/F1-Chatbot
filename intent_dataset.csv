@@ -1,0 +1,801 @@
+question,intent
+What teams participated in Formula 1 in 2020?,get_teams_in_year
+Which teams were in the F1 championship in 2015?,get_teams_in_year
+Can you tell me the teams that raced in 2012?,get_teams_in_year
+List the teams that competed in Formula 1 in 2008.,get_teams_in_year
+Who were the F1 teams in 1997?,get_teams_in_year
+What teams raced in Formula 1 in 2005?,get_teams_in_year
+Tell me which teams participated in 2011?,get_teams_in_year
+Which teams competed in F1 in 2019?,get_teams_in_year
+Name the teams that were part of the 2003 F1 season.,get_teams_in_year
+Can you list the teams that raced in 2007?,get_teams_in_year
+Who were the F1 teams in 2000?,get_teams_in_year
+Which teams participated in 2006?,get_teams_in_year
+Can you show me the teams that were racing in F1 in 2018?,get_teams_in_year
+List the teams in the 2014 F1 season.,get_teams_in_year
+Who were the teams in the 2009 F1 championship?,get_teams_in_year
+What teams were involved in F1 in 2004?,get_teams_in_year
+Which teams raced in 1995?,get_teams_in_year
+Who were the F1 teams in 2017?,get_teams_in_year
+Tell me the F1 teams that participated in 2003.,get_teams_in_year
+Who were the teams in 1977?,get_teams_in_year
+List the teams that competed in 2006.,get_teams_in_year
+Which teams were racing in 2009?,get_teams_in_year
+Can you name the teams in the 1992 season?,get_teams_in_year
+What teams were part of the 1997 championship?,get_teams_in_year
+Which teams participated in 1985?,get_teams_in_year
+Can you list the teams that raced in 1963?,get_teams_in_year
+Who were the teams in the 2005 F1 season?,get_teams_in_year
+What teams were in the 2000 championship?,get_teams_in_year
+Which teams competed in 1952?,get_teams_in_year
+Can you tell me the teams that raced in 1998?,get_teams_in_year
+Who were the teams in the 1973 season?,get_teams_in_year
+Which teams were part of the 2011 F1 season?,get_teams_in_year
+Can you name the teams that competed in 2012?,get_teams_in_year
+Who were the teams in the 1999 championship?,get_teams_in_year
+What teams were in the 2013 F1 season?,get_teams_in_year
+Which teams raced in 2024?,get_teams_in_year
+Can you list the teams that participated in 2020?,get_teams_in_year
+Who were the teams in the 2010 F1 championship?,get_teams_in_year
+What teams were part of the 2015 season?,get_teams_in_year
+Which teams were in the 2023 F1 season?,get_teams_in_year
+Can you tell me the teams that were in the 2018 championship?,get_teams_in_year
+Who were the teams in the 2007 F1 season?,get_teams_in_year
+What teams were racing in the 2004 season?,get_teams_in_year
+Which teams were part of the 1996 championship?,get_teams_in_year
+Can you name the teams that raced in 1955?,get_teams_in_year
+Who were the teams in the 1983 season?,get_teams_in_year
+What teams were in the 2009 F1 championship?,get_teams_in_year
+Which teams competed in the 2012 season?,get_teams_in_year
+Can you list the teams that were in the 1986 F1 season?,get_teams_in_year
+Who were the teams in the 2004 championship?,get_teams_in_year
+What teams were part of the 2019 F1 season?,get_teams_in_year
+Which teams were in the 2016 season?,get_teams_in_year
+Can you tell me the teams that raced in the 2017 season?,get_teams_in_year
+Who were the teams in the 2021 F1 championship?,get_teams_in_year
+What teams were racing in the 2022 championship?,get_teams_in_year
+Which teams were part of the 2003 season?,get_teams_in_year
+Can you name the teams that were in the 1996 F1 season?,get_teams_in_year
+Who were the teams in the 2024 season?,get_teams_in_year
+What teams were in the 2014 F1 season?,get_teams_in_year
+Which teams competed in the 1981 championship?,get_teams_in_year
+What teams participated in Formula 1 in 2020?,get_teams_in_year
+Which teams were in the F1 championship in 2015?,get_teams_in_year
+Can you tell me the teams that raced in 2012?,get_teams_in_year
+List the teams that competed in Formula 1 in 2008.,get_teams_in_year
+Who were the F1 teams in 1997?,get_teams_in_year
+What teams raced in Formula 1 in 2005?,get_teams_in_year
+Tell me which teams participated in 2011?,get_teams_in_year
+Which teams competed in F1 in 2019?,get_teams_in_year
+Name the teams that were part of the 2003 F1 season.,get_teams_in_year
+Can you list the teams that raced in 2007?,get_teams_in_year
+Who were the F1 teams in 2000?,get_teams_in_year
+Which teams participated in 2006?,get_teams_in_year
+Can you show me the teams that were racing in F1 in 2018?,get_teams_in_year
+List the teams in the 2014 F1 season.,get_teams_in_year
+Who were the teams in the 2009 F1 championship?,get_teams_in_year
+What teams were involved in F1 in 2004?,get_teams_in_year
+Which teams raced in 1995?,get_teams_in_year
+Who were the F1 teams in 2017?,get_teams_in_year
+Tell me the F1 teams that participated in 2004.,get_teams_in_year
+Tell me the teams in the 1999 F1 season.,get_teams_in_year
+How many races did Lewis Hamilton win in his career?,get_driver_wins
+What is the total number of victories for Ayrton Senna?,get_driver_wins
+Can you tell me how many wins Michael Schumacher has?,get_driver_wins
+How many Grand Prix wins does Sebastian Vettel have?,get_driver_wins
+Give me the number of race victories Fernando Alonso has.,get_driver_wins
+What’s the win count of Max Verstappen in F1?,get_driver_wins
+Tell me the total number of race wins for Sergio Pérez.,get_driver_wins
+How often has Valtteri Bottas stood on the top step of the podium?,get_driver_wins
+Tell me the total F1 wins for Kimi Räikkönen.,get_driver_wins
+How many times did Alain Prost cross the finish line first?,get_driver_wins
+Find out the number of wins registered by Nico Rosberg.,get_driver_wins
+What’s the career win total for Damon Hill?,get_driver_wins
+How many times has Jenson Button won a Grand Prix?,get_driver_wins
+List the number of race wins for Mika Häkkinen.,get_driver_wins
+How often did Nelson Piquet win an F1 race?,get_driver_wins
+What’s the total number of first-place finishes for Nigel Mansell?,get_driver_wins
+How many times has Daniel Ricciardo won in Formula 1?,get_driver_wins
+Find the total wins of Juan Manuel Fangio.,get_driver_wins
+Can you list all the victories of Stirling Moss?,get_driver_wins
+How many F1 wins does Charles Leclerc have?,get_driver_wins
+How many wins did Lewis Hamilton have in his career?,get_driver_wins
+How many victories does Kimi Räikkönen have in Formula 1?,get_driver_wins
+Can you tell me the total number of wins for Jenson Button?,get_driver_wins
+How many races has Nico Rosberg won in his F1 career?,get_driver_wins
+How many races did Michael Schumacher win?,get_driver_wins
+What’s the total number of wins for Sebastian Vettel?,get_driver_wins
+Can you show me how many wins Fernando Alonso has?,get_driver_wins
+How many victories does Ayrton Senna have?,get_driver_wins
+What is the total number of wins for Kimi Räikkönen?,get_driver_wins
+How many races did Alain Prost win?,get_driver_wins
+What’s the win count for Nelson Piquet?,get_driver_wins
+How many wins does Jackie Stewart have?,get_driver_wins
+Can you tell me the number of wins for Nigel Mansell?,get_driver_wins
+How many victories does Jim Clark have?,get_driver_wins
+How many races did Niki Lauda win in F1?,get_driver_wins
+What is the win count for Mika Häkkinen?,get_driver_wins
+How many wins did Fernando Alonso secure?,get_driver_wins
+What’s the total number of F1 victories for Lewis Hamilton?,get_driver_wins
+Can you tell me how many wins Valtteri Bottas has?,get_driver_wins
+How many victories does Daniel Ricciardo have?,get_driver_wins
+What’s Lewis Hamilton’s win count?,get_driver_wins
+Can you tell me how many races Kimi Räikkönen has won?,get_driver_wins
+How many victories does Jenson Button have?,get_driver_wins
+What’s the total number of wins for Nico Rosberg?,get_driver_wins
+How many races did Michael Schumacher win in his career?,get_driver_wins
+What’s Sebastian Vettel’s win count?,get_driver_wins
+Can you tell me how many races Fernando Alonso has won?,get_driver_wins
+How many victories does Ayrton Senna have in F1?,get_driver_wins
+What’s Kimi Räikkönen’s total number of wins?,get_driver_wins
+How many races did Alain Prost win in his career?,get_driver_wins
+What’s Nelson Piquet’s win count?,get_driver_wins
+How many victories does Jackie Stewart have in F1?,get_driver_wins
+Can you tell me how many races Nigel Mansell won?,get_driver_wins
+How many wins does Jim Clark have in F1?,get_driver_wins
+What’s Niki Lauda’s win count?,get_driver_wins
+How many races did Mika Häkkinen win?,get_driver_wins
+What’s Fernando Alonso’s total number of wins?,get_driver_wins
+Can you tell me how many victories Lewis Hamilton has?,get_driver_wins
+How many races has Valtteri Bottas won?,get_driver_wins
+What’s Daniel Ricciardo’s win count?,get_driver_wins
+How many wins did Lewis Hamilton have in his career?,get_driver_wins
+How many victories does Kimi Räikkönen have in Formula 1?,get_driver_wins
+Can you tell me the total number of wins for Jenson Button?,get_driver_wins
+How many races has Nico Rosberg won in his F1 career?,get_driver_wins
+How many races did Michael Schumacher win?,get_driver_wins
+What’s the total number of wins for Sebastian Vettel?,get_driver_wins
+Can you show me how many wins Fernando Alonso has?,get_driver_wins
+How many victories does Ayrton Senna have?,get_driver_wins
+What is the total number of wins for Kimi Räikkönen?,get_driver_wins
+How many races did Alain Prost win?,get_driver_wins
+What’s the win count for Nelson Piquet?,get_driver_wins
+How many wins does Jackie Stewart have?,get_driver_wins
+Can you tell me the number of wins for Nigel Mansell?,get_driver_wins
+How many victories does Jim Clark have?,get_driver_wins
+How many races did Niki Lauda win in F1?,get_driver_wins
+What is the win count for Mika Häkkinen?,get_driver_wins
+How many wins did Fernando Alonso secure?,get_driver_wins
+What’s the total number of F1 victories for Lewis Hamilton?,get_driver_wins
+Can you tell me how many wins Valtteri Bottas has?,get_driver_wins
+How many victories does Daniel Ricciardo have?,get_driver_wins
+Who won the 1999 F1 championship?,get_championship_winner
+Which driver was crowned champion in 2013?,get_championship_winner
+Find me the 1985 F1 champion.,get_championship_winner
+Tell me the title winner of 2011.,get_championship_winner
+Who dominated the 1991 F1 season?,get_championship_winner
+Give me the name of the 2008 world champion.,get_championship_winner
+Who lifted the trophy in 2019?,get_championship_winner
+Tell me the name of the 2017 champion.,get_championship_winner
+Which driver secured the 2020 title?,get_championship_winner
+Show me the 1996 F1 championship winner.,get_championship_winner
+Who claimed victory in the 1980 season?,get_championship_winner
+Which driver ended the 1975 season as champion?,get_championship_winner
+Give me the name of the driver who won in 2015.,get_championship_winner
+Who was the champion when F1 began in 1950?,get_championship_winner
+Find the champion of the 2005 season.,get_championship_winner
+Who was the title winner in 2021?,get_championship_winner
+Which driver finished first in 1994?,get_championship_winner
+Who took the championship in 2010?,get_championship_winner
+Tell me who won in 2003.,get_championship_winner
+Which racer came out on top in 1979?,get_championship_winner
+Who won the Formula 1 championship in 2014?,get_championship_winner
+Tell me the F1 champion of 2000.,get_championship_winner
+Who was the world champion in 2003?,get_championship_winner
+Who won the F1 title in 1998?,get_championship_winner
+Who won the Formula 1 championship in 2012?,get_championship_winner
+Which driver secured the F1 title in 2007?,get_championship_winner
+Who was crowned world champion in the 2004 F1 season?,get_championship_winner
+Who claimed the F1 championship in 1994?,get_championship_winner
+Who won the world championship in 1989?,get_championship_winner
+Who was the F1 champion in the 1981 season?,get_championship_winner
+Who was the champion in 1985?,get_championship_winner
+Tell me who won the F1 title in 2004.,get_championship_winner
+Who claimed the 2001 F1 championship?,get_championship_winner
+Who was the Formula 1 world champion in 2012?,get_championship_winner
+Who took the championship in 1994?,get_championship_winner
+Who was the F1 champion in 2016?,get_championship_winner
+Tell me the world champion of 1993.,get_championship_winner
+Who won the Formula 1 championship in 1982?,get_championship_winner
+Who claimed the title in 2007?,get_championship_winner
+Who won the F1 championship in 1991?,get_championship_winner
+Who was the F1 champion in 2014?,get_championship_winner
+Can you tell me who won the 2000 championship?,get_championship_winner
+Who was the world champion in 2003?,get_championship_winner
+Who won the title in 1998?,get_championship_winner
+Who was the 2012 champion?,get_championship_winner
+Which driver won the 2007 title?,get_championship_winner
+Who was the 2004 world champion?,get_championship_winner
+Who won the championship in 1994?,get_championship_winner
+Who was the 1989 champion?,get_championship_winner
+Who won the 1981 championship?,get_championship_winner
+Who was the 1985 champion?,get_championship_winner
+Tell me who won the 2004 title.,get_championship_winner
+Who was the 2001 champion?,get_championship_winner
+Who won the 2012 championship?,get_championship_winner
+Who took the title in 1994?,get_championship_winner
+Who was the 2016 champion?,get_championship_winner
+Tell me who won the 1993 championship.,get_championship_winner
+Who won the 1982 championship?,get_championship_winner
+Who was the 2007 champion?,get_championship_winner
+Who won the 1991 championship?,get_championship_winner
+Who won the Formula 1 championship in 2014?,get_championship_winner
+Tell me the F1 champion of 2000.,get_championship_winner
+Who was the world champion in 2003?,get_championship_winner
+Who won the F1 title in 1998?,get_championship_winner
+Who won the Formula 1 championship in 2012?,get_championship_winner
+Which driver secured the F1 title in 2007?,get_championship_winner
+Who was crowned world champion in the 2004 F1 season?,get_championship_winner
+Who claimed the F1 championship in 1994?,get_championship_winner
+Who won the world championship in 1989?,get_championship_winner
+Who was the F1 champion in the 1981 season?,get_championship_winner
+Who was the champion in 1985?,get_championship_winner
+Tell me who won the F1 title in 2004.,get_championship_winner
+Who claimed the 2001 F1 championship?,get_championship_winner
+Who was the Formula 1 world champion in 2012?,get_championship_winner
+Who took the championship in 1994?,get_championship_winner
+Who was the F1 champion in 2016?,get_championship_winner
+Tell me the world champion of 1993.,get_championship_winner
+Who won the Formula 1 championship in 1982?,get_championship_winner
+Who claimed the title in 2007?,get_championship_winner
+Who won the F1 championship in 1991?,get_championship_winner
+Who has won the most races in Formula 1 history?,get_driver_with_most_wins
+Which F1 driver holds the record for the most Grand Prix victories?,get_driver_with_most_wins
+Tell me the name of the driver with the most F1 wins.,get_driver_with_most_wins
+Who is the all-time leader in Formula 1 race wins?,get_driver_with_most_wins
+Find out which driver has the highest number of race victories.,get_driver_with_most_wins
+Which racer has taken the most checkered flags in F1 history?,get_driver_with_most_wins
+Who has the most first-place finishes in Formula 1?,get_driver_with_most_wins
+Which driver has stood on the top step of the podium the most times?,get_driver_with_most_wins
+Tell me the F1 driver with the most career wins.,get_driver_with_most_wins
+Who has claimed the greatest number of race victories in F1?,get_driver_with_most_wins
+Which driver has secured the most Grand Prix wins in history?,get_driver_with_most_wins
+Give me the name of the F1 driver with the most triumphs.,get_driver_with_most_wins
+Who has dominated F1 with the highest number of wins?,get_driver_with_most_wins
+Which driver has achieved the most race wins ever?,get_driver_with_most_wins
+Who leads the all-time Formula 1 wins list?,get_driver_with_most_wins
+Which F1 driver has won the most races in a single season?,get_driver_with_most_wins
+Who has the longest winning streak in Formula 1 history?,get_driver_with_most_wins
+Which driver has taken the most victories in modern F1?,get_driver_with_most_wins
+Tell me which driver has reached the most Grand Prix wins.,get_driver_with_most_wins
+Who has conquered the most F1 circuits by winning races?,get_driver_with_most_wins
+Find the most successful driver in F1 in terms of wins.,get_driver_with_most_wins
+Which driver has won races in the most different seasons?,get_driver_with_most_wins
+Who has won the highest number of consecutive races in F1?,get_driver_with_most_wins
+Tell me the driver with the most championship race wins.,get_driver_with_most_wins
+Which F1 legend holds the record for total race wins?,get_driver_with_most_wins
+Who has been victorious in the most F1 events ever?,get_driver_with_most_wins
+Find out who has topped the podium most times in F1 history.,get_driver_with_most_wins
+Which driver has been the most frequent race winner in F1?,get_driver_with_most_wins
+Which driver holds the record for the most F1 wins?,get_driver_with_most_wins
+Which driver has the highest number of career wins in Formula 1?,get_driver_with_most_wins
+Who holds the record for the most race victories in F1 history?,get_driver_with_most_wins
+Which F1 driver has accumulated the most wins over their career?,get_driver_with_most_wins
+Who has the most career victories in Formula 1?,get_driver_with_most_wins
+Which driver is known for having the most wins in F1 races?,get_driver_with_most_wins
+Who has the most wins in Formula 1 history?,get_driver_with_most_wins
+Can you tell me who has the highest number of wins in F1?,get_driver_with_most_wins
+Who is the driver with the most race victories?,get_driver_with_most_wins
+Name the driver with the highest career wins in Formula 1.,get_driver_with_most_wins
+Who holds the record for most race wins in Formula 1?,get_driver_with_most_wins
+Which driver has the most F1 victories?,get_driver_with_most_wins
+Who is the winningest driver in F1 history?,get_driver_with_most_wins
+Who has the greatest number of race wins in F1?,get_driver_with_most_wins
+Which driver has the most wins in F1?,get_driver_with_most_wins
+Who holds the most wins in Formula 1?,get_driver_with_most_wins
+Who has the most victories in F1?,get_driver_with_most_wins
+Which driver is known for the most race wins?,get_driver_with_most_wins
+Can you tell me who has the record for the most wins in Formula 1?,get_driver_with_most_wins
+Who has the most wins in Formula 1?,get_driver_with_most_wins
+Who is the driver with the most wins in F1 history?,get_driver_with_most_wins
+Which driver has the highest number of wins in F1?,get_driver_with_most_wins
+Who holds the record for the most wins in F1?,get_driver_with_most_wins
+Which driver has the most wins in Formula 1?,get_driver_with_most_wins
+Who is the driver with the most wins in F1 history?,get_driver_with_most_wins
+Which driver has secured the most wins in F1?,get_driver_with_most_wins
+Can you tell me who has the most wins in F1?,get_driver_with_most_wins
+Who is the F1 driver with the most wins?,get_driver_with_most_wins
+Which driver has the most wins of all time in F1?,get_driver_with_most_wins
+Who is the most successful driver in terms of wins?,get_driver_with_most_wins
+Which driver has the most wins in a single F1 season?,get_driver_with_most_wins
+Which driver holds the record for the most wins in a season?,get_driver_with_most_wins
+Which driver holds the record for the most F1 wins?,get_driver_with_most_wins
+Which driver has the highest number of career wins in Formula 1?,get_driver_with_most_wins
+Who holds the record for the most race victories in F1 history?,get_driver_with_most_wins
+Which F1 driver has accumulated the most wins over their career?,get_driver_with_most_wins
+Who has the most career victories in Formula 1?,get_driver_with_most_wins
+Which driver is known for having the most wins in F1 races?,get_driver_with_most_wins
+Who has the most wins in Formula 1 history?,get_driver_with_most_wins
+Can you tell me who has the highest number of wins in F1?,get_driver_with_most_wins
+Who is the driver with the most race victories?,get_driver_with_most_wins
+Name the driver with the highest career wins in Formula 1.,get_driver_with_most_wins
+Who holds the record for most race wins in Formula 1?,get_driver_with_most_wins
+Which driver has the most F1 victories?,get_driver_with_most_wins
+Who is the winningest driver in F1 history?,get_driver_with_most_wins
+Who has the greatest number of race wins in F1?,get_driver_with_most_wins
+Which driver has the most wins in F1?,get_driver_with_most_wins
+Who holds the most wins in Formula 1?,get_driver_with_most_wins
+Who has the most victories in F1?,get_driver_with_most_wins
+Which driver is known for the most race wins?,get_driver_with_most_wins
+Can you tell me who has the record for the most wins in Formula 1?,get_driver_with_most_wins
+Who has the most wins in Formula 1?,get_driver_with_most_wins
+Which team won the constructors' championship in 2004?,get_constructors_championship
+Which team won the F1 constructors' championship in 2010?,get_constructors_championship
+Who secured the constructors' title in the 1998 season?,get_constructors_championship
+Tell me the team that dominated the 2004 constructors' standings.,get_constructors_championship
+Which constructor finished first in the 2015 championship?,get_constructors_championship
+Find out the team that claimed the constructors' trophy in 2021.,get_constructors_championship
+Which F1 team had the most points in the 2000 season?,get_constructors_championship
+Who took the constructors' championship crown in 1991?,get_constructors_championship
+Which team ended up as the best constructor in 2013?,get_constructors_championship
+Name the F1 team that won the constructors' championship in 2007.,get_constructors_championship
+Which team emerged victorious in the 1985 constructors' title race?,get_constructors_championship
+Which team won the F1 constructors' championship in 2010?,get_constructors_championship
+Tell me the F1 constructors' champion of 2017.,get_constructors_championship
+Who took the team title in 2013?,get_constructors_championship
+Which team secured the 2010 championship?,get_constructors_championship
+Give me the winning team of the 1998 season.,get_constructors_championship
+Show me the constructors' champion in 2005.,get_constructors_championship
+Find out which team won in 1991.,get_constructors_championship
+Who was the best F1 team in 2000?,get_constructors_championship
+Which constructor dominated the 1995 season?,get_constructors_championship
+Which team came out on top in 1982?,get_constructors_championship
+Who won the constructors' championship in 2012?,get_constructors_championship
+Which team claimed the constructors' title in 2007?,get_constructors_championship
+Which team won the constructors' championship in 2017?,get_constructors_championship
+Who was the winner of the constructors' title in 1999?,get_constructors_championship
+Tell me which team claimed the constructors' title in 2013.,get_constructors_championship
+Who won the constructors' championship in 2005?,get_constructors_championship
+Which team took the constructors' championship in 2010?,get_constructors_championship
+Who claimed the constructors' title in 2001?,get_constructors_championship
+Which team secured the constructors' championship in 1998?,get_constructors_championship
+Can you tell me who won the constructors' championship in 2007?,get_constructors_championship
+Who was the constructors' title winner in 2015?,get_constructors_championship
+Which team claimed the constructors' championship in 1997?,get_constructors_championship
+Who was the winner of the constructors' title in 2011?,get_constructors_championship
+Which team took the constructors' title in 2004?,get_constructors_championship
+Who claimed the constructors' title in 2003?,get_constructors_championship
+Which team was the constructors' champion in 2002?,get_constructors_championship
+Who won the constructors' title in 2009?,get_constructors_championship
+Who claimed the 2019 constructors title?,get_constructors_championship
+Who won the constructors championship in 2018?,get_constructors_championship
+Tell me who won the constructors' title in 2016.,get_constructors_championship
+Which team won the 2012 constructors' championship?,get_constructors_championship
+Can you tell me who won the 2007 constructors' title?,get_constructors_championship
+Who won the 2017 constructors' championship?,get_constructors_championship
+Which team was the 1999 constructors' champion?,get_constructors_championship
+Tell me who won the 2013 constructors' title.,get_constructors_championship
+Who won the 2005 constructors' championship?,get_constructors_championship
+Which team won the 2010 constructors' title?,get_constructors_championship
+Who claimed the 2001 constructors' title?,get_constructors_championship
+Which team won the 1998 constructors' championship?,get_constructors_championship
+Can you tell me who won the 2007 constructors' title?,get_constructors_championship
+Who was the 2015 constructors' champion?,get_constructors_championship
+Which team won the 1997 constructors' title?,get_constructors_championship
+Who won the 2011 constructors' championship?,get_constructors_championship
+Which team won the 2004 constructors' title?,get_constructors_championship
+Who claimed the 2003 constructors' title?,get_constructors_championship
+Which team was the 2002 constructors' champion?,get_constructors_championship
+Who won the 2009 constructors' title?,get_constructors_championship
+Who claimed the 2019 constructors' title?,get_constructors_championship
+Who won the 2018 constructors' championship?,get_constructors_championship
+Tell me who won the 2016 constructors' title.,get_constructors_championship
+Who won the constructors' championship in 2012?,get_constructors_championship
+Which team claimed the constructors' title in 2007?,get_constructors_championship
+Which team won the constructors' championship in 2017?,get_constructors_championship
+Who was the winner of the constructors' title in 1999?,get_constructors_championship
+Tell me which team claimed the constructors' title in 2013.,get_constructors_championship
+Who won the constructors' championship in 2005?,get_constructors_championship
+Which team took the constructors' championship in 2010?,get_constructors_championship
+Who claimed the constructors' title in 2001?,get_constructors_championship
+Which team secured the constructors' championship in 1998?,get_constructors_championship
+Can you tell me who won the constructors' championship in 2007?,get_constructors_championship
+Who was the constructors' title winner in 2015?,get_constructors_championship
+Which team claimed the constructors' championship in 1997?,get_constructors_championship
+Who was the winner of the constructors' title in 2011?,get_constructors_championship
+Who claimed the constructors' title in 2003?,get_constructors_championship
+Which team was the constructors' champion in 2002?,get_constructors_championship
+Who won the constructors' title in 2009?,get_constructors_championship
+Who claimed the 2019 constructors' title?,get_constructors_championship
+Who won the constructors' championship in 2018?,get_constructors_championship
+Tell me who won the constructors' title in 2016.,get_constructors_championship
+Who won races in the 2010 F1 season?,get_race_winners_in_year
+List all Grand Prix winners from 2005.,get_race_winners_in_year
+Which drivers secured race victories in 2018?,get_race_winners_in_year
+Tell me the F1 race winners from 1999.,get_race_winners_in_year
+Show me the names of drivers who won races in 2015.,get_race_winners_in_year
+Find all race-winning drivers from the 2003 season.,get_race_winners_in_year
+Which F1 drivers stood on the top step of the podium in 2021?,get_race_winners_in_year
+Who claimed victory in multiple races during the 2016 season?,get_race_winners_in_year
+Can you list all race winners from the 1987 F1 season?,get_race_winners_in_year
+Provide the names of Grand Prix winners from 2012.,get_race_winners_in_year
+Which drivers managed to win races in the 1995 championship?,get_race_winners_in_year
+Tell me who won at least one race in 2008.,get_race_winners_in_year
+Give me the complete list of race winners in 2020.,get_race_winners_in_year
+Who were the fastest men on track winning races in 2001?,get_race_winners_in_year
+Show me the complete podium toppers of 2017.,get_race_winners_in_year
+Who took home race trophies in 2013?,get_race_winners_in_year
+Which drivers secured first-place finishes in 1992?,get_race_winners_in_year
+Find out which drivers crossed the line first in 1978.,get_race_winners_in_year
+Who were the race winners during the 2006 F1 season?,get_race_winners_in_year
+Which drivers won at least one Grand Prix in 1985?,get_race_winners_in_year
+Who won the most races in the 2018 season?,get_race_winners_in_year
+Tell me who the race winners were in 2012.,get_race_winners_in_year
+Who claimed victory in the 2016 F1 races?,get_race_winners_in_year
+Can you list the race winners in 2009?,get_race_winners_in_year
+Which drivers won the most races in 2020?,get_race_winners_in_year
+Who were the race winners in 2007?,get_race_winners_in_year
+Can you tell me who won the most races in the 2014 season?,get_race_winners_in_year
+Who were the race winners in the 2020 Formula 1 season?,get_race_winners_in_year
+Can you list all the winners from the 2019 F1 season?,get_race_winners_in_year
+Which drivers won races in 2018 Formula 1 season?,get_race_winners_in_year
+Tell me the F1 race winners in 2017.,get_race_winners_in_year
+Who claimed victories in the 2016 Formula 1 season?,get_race_winners_in_year
+Can you name the drivers who won races in 2014 F1 season?,get_race_winners_in_year
+Who were the race winners in the 2013 Formula 1 season?,get_race_winners_in_year
+Which drivers secured victories in the 2011 Formula 1 season?,get_race_winners_in_year
+Who was the race winner in 1998?,get_race_winners_in_year
+Who claimed victory in 1996?,get_race_winners_in_year
+Tell me the race winners of 1990.,get_race_winners_in_year
+Who won the most races in 2003?,get_race_winners_in_year
+Who won the most races in 2019?,get_race_winners_in_year
+Who were the race winners in 2018?,get_race_winners_in_year
+Can you tell me who won races in 2012?,get_race_winners_in_year
+Who won races in 2016?,get_race_winners_in_year
+Can you list the winners from 2009?,get_race_winners_in_year
+Which drivers won in 2020?,get_race_winners_in_year
+Who were the winners in 2007?,get_race_winners_in_year
+Can you tell me who won in 2014?,get_race_winners_in_year
+Who won races in 2020?,get_race_winners_in_year
+Can you list the winners from 2019?,get_race_winners_in_year
+Which drivers won in 2018?,get_race_winners_in_year
+Tell me who won in 2017.,get_race_winners_in_year
+Who won races in 2016?,get_race_winners_in_year
+Can you name the winners from 2014?,get_race_winners_in_year
+Who won races in 2013?,get_race_winners_in_year
+Which drivers won in 2011?,get_race_winners_in_year
+Who won in 1998?,get_race_winners_in_year
+Who won in 1996?,get_race_winners_in_year
+Tell me who won in 1990.,get_race_winners_in_year
+Who won the most races in 2003?,get_race_winners_in_year
+Who won the most races in 2019?,get_race_winners_in_year
+Who won the most races in the 2018 season?,get_race_winners_in_year
+Tell me who the race winners were in 2012.,get_race_winners_in_year
+Who claimed victory in the 2016 F1 races?,get_race_winners_in_year
+Can you list the race winners in 2009?,get_race_winners_in_year
+Which drivers won the most races in 2020?,get_race_winners_in_year
+Who were the race winners in 2007?,get_race_winners_in_year
+Can you tell me who won the most races in the 2014 season?,get_race_winners_in_year
+Who were the race winners in the 2020 Formula 1 season?,get_race_winners_in_year
+Can you list all the winners from the 2019 F1 season?,get_race_winners_in_year
+Which drivers won races in 2018 Formula 1 season?,get_race_winners_in_year
+Tell me the F1 race winners in 2017.,get_race_winners_in_year
+Who claimed victories in the 2016 Formula 1 season?,get_race_winners_in_year
+Can you name the drivers who won races in 2014 F1 season?,get_race_winners_in_year
+Who were the race winners in the 2013 Formula 1 season?,get_race_winners_in_year
+Which drivers secured victories in the 2011 Formula 1 season?,get_race_winners_in_year
+Who was the race winner in 1998?,get_race_winners_in_year
+Who claimed victory in 1996?,get_race_winners_in_year
+Tell me the race winners of 1990.,get_race_winners_in_year
+Who won the most races in 2003?,get_race_winners_in_year
+Who won the most races in 2019?,get_race_winners_in_year
+Who finished second in the 2018 F1 championship?,get_championship_runner_up
+Tell me the 2010 championship runner-up.,get_championship_runner_up
+Which driver was vice-champion in 2015?,get_championship_runner_up
+Who barely missed the title in 2007?,get_championship_runner_up
+Who ended up second place in 2020?,get_championship_runner_up
+Find the F1 driver who was runner-up in 1998.,get_championship_runner_up
+Who came in second during the 2013 season?,get_championship_runner_up
+Which competitor was just behind the champion in 2000?,get_championship_runner_up
+Name the 2016 F1 runner-up.,get_championship_runner_up
+Who was the closest rival to the champion in 2011?,get_championship_runner_up
+In 1994 who was second in the championship?,get_championship_runner_up
+Who trailed behind Schumacher in 2003?,get_championship_runner_up
+Which driver was the runner-up in the 1991 season?,get_championship_runner_up
+Show me the 2008 F1 runner-up.,get_championship_runner_up
+Who ranked second in 1995?,get_championship_runner_up
+Who almost won the title in 1986?,get_championship_runner_up
+Which driver was the closest challenger in 2009?,get_championship_runner_up
+Tell me the 2002 runner-up.,get_championship_runner_up
+Who finished behind the winner in 1976?,get_championship_runner_up
+Which racer was second in the 2022 championship?,get_championship_runner_up
+Which driver finished second in the 2008 season?,get_championship_runner_up
+Who was the runner-up in the 2005 Formula 1 championship?,get_championship_runner_up
+Can you tell me who finished second in 2014?,get_championship_runner_up
+Who came second in the 2001 F1 championship?,get_championship_runner_up
+Which driver was the runner-up in 2009?,get_championship_runner_up
+Who was the runner-up in the 2020 Formula 1 championship?,get_championship_runner_up
+Can you tell me who finished second in the 2018 F1 season?,get_championship_runner_up
+Who was the runner-up in the 2015 Formula 1 season?,get_championship_runner_up
+Which driver finished second in the 2011 Formula 1 championship?,get_championship_runner_up
+Who came second in the 2009 Formula 1 championship?,get_championship_runner_up
+Who was the runner-up in the 2006 Formula 1 season?,get_championship_runner_up
+Who finished second in the 2004 Formula 1 championship?,get_championship_runner_up
+Can you tell me who was second in the 2000 Formula 1 championship?,get_championship_runner_up
+Who finished second in the 2011 F1 season?,get_championship_runner_up
+Who was the runner-up in 2013?,get_championship_runner_up
+Tell me who was second in the 1992 championship.,get_championship_runner_up
+Who finished in second place in 1997?,get_championship_runner_up
+Can you tell me who was the runner-up in 1990?,get_championship_runner_up
+Who was second in the 2006 F1 championship?,get_championship_runner_up
+Who finished second in the 2017 season?,get_championship_runner_up
+Who was the second-place driver in 2008?,get_championship_runner_up
+Can you name the runner-up in 2005?,get_championship_runner_up
+Who came in second in 2014?,get_championship_runner_up
+Which driver was second in 2001?,get_championship_runner_up
+Who was the second-place finisher in 2009?,get_championship_runner_up
+Who was the runner-up in 2020?,get_championship_runner_up
+Can you tell me who was second in 2018?,get_championship_runner_up
+Who was the second-place driver in 2015?,get_championship_runner_up
+Which driver was runner-up in 2011?,get_championship_runner_up
+Who came in second in 2009?,get_championship_runner_up
+Who was the runner-up in 2006?,get_championship_runner_up
+Who finished second in 2004?,get_championship_runner_up
+Can you tell me who was second in 2000?,get_championship_runner_up
+Who was the second-place finisher in 2011?,get_championship_runner_up
+Who was the runner-up in 2013?,get_championship_runner_up
+Tell me who was second in 1992.,get_championship_runner_up
+Who finished second in 1997?,get_championship_runner_up
+Can you tell me who was the runner-up in 1990?,get_championship_runner_up
+Who was second in 2006?,get_championship_runner_up
+Who finished second in 2017?,get_championship_runner_up
+Which driver finished second in the 2008 season?,get_championship_runner_up
+Who was the runner-up in the 2005 Formula 1 championship?,get_championship_runner_up
+Can you tell me who finished second in 2014?,get_championship_runner_up
+Who came second in the 2001 F1 championship?,get_championship_runner_up
+Which driver was the runner-up in 2009?,get_championship_runner_up
+Who was the runner-up in the 2020 Formula 1 championship?,get_championship_runner_up
+Can you tell me who finished second in the 2018 F1 season?,get_championship_runner_up
+Who was the runner-up in the 2015 Formula 1 season?,get_championship_runner_up
+Which driver finished second in the 2011 Formula 1 championship?,get_championship_runner_up
+Who came second in the 2009 Formula 1 championship?,get_championship_runner_up
+Who was the runner-up in the 2006 Formula 1 season?,get_championship_runner_up
+Who finished second in the 2004 Formula 1 championship?,get_championship_runner_up
+Can you tell me who was second in the 2000 Formula 1 championship?,get_championship_runner_up
+Who finished second in the 2011 F1 season?,get_championship_runner_up
+Who was the runner-up in 2013?,get_championship_runner_up
+Tell me who was second in the 1992 championship.,get_championship_runner_up
+Who finished in second place in 1997?,get_championship_runner_up
+Can you tell me who was the runner-up in 1990?,get_championship_runner_up
+Who was second in the 2006 F1 championship?,get_championship_runner_up
+Who finished second in the 2017 season?,get_championship_runner_up
+Which drivers have won multiple F1 championships?,get_drivers_with_multiple_titles
+Tell me the names of drivers with more than one F1 title.,get_drivers_with_multiple_titles
+List all Formula 1 champions with at least two titles.,get_drivers_with_multiple_titles
+Who are the drivers that have secured multiple F1 world championships?,get_drivers_with_multiple_titles
+Give me a list of F1 racers with more than one championship win.,get_drivers_with_multiple_titles
+Which Formula 1 drivers have been crowned champion multiple times?,get_drivers_with_multiple_titles
+Can you name the drivers who have won the F1 title at least twice?,get_drivers_with_multiple_titles
+Who has claimed the F1 championship more than once?,get_drivers_with_multiple_titles
+Find all drivers who have achieved multiple world titles in F1.,get_drivers_with_multiple_titles
+Which F1 legends have won the championship multiple times?,get_drivers_with_multiple_titles
+Show me the names of multi-time F1 champions.,get_drivers_with_multiple_titles
+How many drivers have won the F1 championship more than once?,get_drivers_with_multiple_titles
+Who are the repeat champions in Formula 1 history?,get_drivers_with_multiple_titles
+Give me the F1 drivers with at least two championship victories.,get_drivers_with_multiple_titles
+Tell me the multiple-time winners of the Formula 1 world championship.,get_drivers_with_multiple_titles
+Who are the most decorated drivers in F1 history?,get_drivers_with_multiple_titles
+Which F1 racers have taken home multiple world championships?,get_drivers_with_multiple_titles
+Find me the names of drivers who have won at least two F1 titles.,get_drivers_with_multiple_titles
+Who has dominated Formula 1 by winning several titles?,get_drivers_with_multiple_titles
+Give me the list of repeat F1 champions over the years.,get_drivers_with_multiple_titles
+Which drivers have won more than one Formula 1 championship?,get_drivers_with_multiple_titles
+Can you list drivers who have multiple world titles?,get_drivers_with_multiple_titles
+Who are the F1 drivers with two or more championships?,get_drivers_with_multiple_titles
+Name the drivers with multiple world championships.,get_drivers_with_multiple_titles
+Which F1 champions have won the title more than once?,get_drivers_with_multiple_titles
+Which F1 drivers have more than one world title?,get_drivers_with_multiple_titles
+Which drivers have won multiple Formula 1 championships?,get_drivers_with_multiple_titles
+Can you list F1 drivers with more than one world title?,get_drivers_with_multiple_titles
+Who are the Formula 1 champions with more than one title?,get_drivers_with_multiple_titles
+Which drivers have claimed multiple F1 world championships?,get_drivers_with_multiple_titles
+Who has won more than one Formula 1 title?,get_drivers_with_multiple_titles
+Which drivers in F1 have two or more world championships?,get_drivers_with_multiple_titles
+Can you name the drivers with two or more world championships in F1?,get_drivers_with_multiple_titles
+Who are the F1 drivers who have won the title more than once?,get_drivers_with_multiple_titles
+Which F1 drivers have more than one championship to their name?,get_drivers_with_multiple_titles
+Who has won multiple world championships in Formula 1?,get_drivers_with_multiple_titles
+Can you tell me who won multiple Formula 1 championships?,get_drivers_with_multiple_titles
+Who are the drivers with more than one world title?,get_drivers_with_multiple_titles
+Which drivers hold more than one F1 championship?,get_drivers_with_multiple_titles
+Who are the multiple F1 champions?,get_drivers_with_multiple_titles
+Who are the F1 drivers with multiple titles?,get_drivers_with_multiple_titles
+Can you list the drivers with more than one championship?,get_drivers_with_multiple_titles
+Which drivers have won multiple F1 titles?,get_drivers_with_multiple_titles
+Who are the drivers with two or more F1 championships?,get_drivers_with_multiple_titles
+Can you name the drivers with multiple F1 titles?,get_drivers_with_multiple_titles
+Who are the F1 drivers with more than one title?,get_drivers_with_multiple_titles
+Which drivers have won more than one F1 championship?,get_drivers_with_multiple_titles
+Can you tell me who has multiple F1 titles?,get_drivers_with_multiple_titles
+Who are the drivers with multiple F1 championships?,get_drivers_with_multiple_titles
+Which drivers have more than one F1 title?,get_drivers_with_multiple_titles
+Who are the F1 drivers with multiple world titles?,get_drivers_with_multiple_titles
+Can you list the drivers with multiple F1 championships?,get_drivers_with_multiple_titles
+Which drivers have won more than one F1 title?,get_drivers_with_multiple_titles
+Who are the drivers with two or more F1 titles?,get_drivers_with_multiple_titles
+Can you name the drivers with multiple F1 titles?,get_drivers_with_multiple_titles
+Who are the F1 drivers with more than one championship?,get_drivers_with_multiple_titles
+Which drivers have won multiple F1 championships?,get_drivers_with_multiple_titles
+Can you tell me who has multiple F1 titles?,get_drivers_with_multiple_titles
+Who are the drivers with multiple F1 championships?,get_drivers_with_multiple_titles
+Which drivers have more than one F1 title?,get_drivers_with_multiple_titles
+Which drivers have won more than one Formula 1 championship?,get_drivers_with_multiple_titles
+Can you list drivers who have multiple world titles?,get_drivers_with_multiple_titles
+Who are the F1 drivers with two or more championships?,get_drivers_with_multiple_titles
+Name the drivers with multiple world championships.,get_drivers_with_multiple_titles
+Which F1 champions have won the title more than once?,get_drivers_with_multiple_titles
+Which F1 drivers have more than one world title?,get_drivers_with_multiple_titles
+Which drivers have won multiple Formula 1 championships?,get_drivers_with_multiple_titles
+Can you list F1 drivers with more than one world title?,get_drivers_with_multiple_titles
+Who are the Formula 1 champions with more than one title?,get_drivers_with_multiple_titles
+Which drivers have claimed multiple F1 world championships?,get_drivers_with_multiple_titles
+Who has won more than one Formula 1 title?,get_drivers_with_multiple_titles
+Which drivers in F1 have two or more world championships?,get_drivers_with_multiple_titles
+Can you name the drivers with two or more world championships in F1?,get_drivers_with_multiple_titles
+Who are the F1 drivers who have won the title more than once?,get_drivers_with_multiple_titles
+Which F1 drivers have more than one championship to their name?,get_drivers_with_multiple_titles
+Who has won multiple world championships in Formula 1?,get_drivers_with_multiple_titles
+Can you tell me who won multiple Formula 1 championships?,get_drivers_with_multiple_titles
+Who are the drivers with more than one world title?,get_drivers_with_multiple_titles
+Which drivers hold more than one F1 championship?,get_drivers_with_multiple_titles
+Who are the multiple F1 champions?,get_drivers_with_multiple_titles
+Who holds the record for the most pole positions in F1 history?,get_driver_with_most_poles
+Which driver has secured the most pole positions ever?,get_driver_with_most_poles
+Tell me the F1 driver with the highest number of pole starts.,get_driver_with_most_poles
+Who has started the most races from pole position in Formula 1?,get_driver_with_most_poles
+Find out the driver with the greatest number of poles in F1.,get_driver_with_most_poles
+Which Formula 1 driver has achieved the most pole positions?,get_driver_with_most_poles
+Who has claimed the highest number of pole positions in F1?,get_driver_with_most_poles
+Which racer has been on pole position the most times?,get_driver_with_most_poles
+Give me the name of the driver who has led the most qualifying sessions.,get_driver_with_most_poles
+Who has dominated F1 qualifying the most?,get_driver_with_most_poles
+Which driver has been fastest in qualifying the most times?,get_driver_with_most_poles
+Who holds the record for most front-row starts in F1 history?,get_driver_with_most_poles
+Which F1 legend has the most career pole positions?,get_driver_with_most_poles
+Tell me who has the most P1 starts in F1 history.,get_driver_with_most_poles
+Which driver has had the best qualifying record in F1 history?,get_driver_with_most_poles
+Who leads the all-time list for pole positions in F1?,get_driver_with_most_poles
+Which Formula 1 driver has the most P1 grid starts?,get_driver_with_most_poles
+Who has qualified first the most times in F1?,get_driver_with_most_poles
+Give me the name of the driver with the most fastest qualifying laps.,get_driver_with_most_poles
+Who has been on the front row the most times in F1?,get_driver_with_most_poles
+Which driver has dominated qualifying the most in F1 history?,get_driver_with_most_poles
+Who has converted the most pole positions into wins?,get_driver_with_most_poles
+Which F1 driver has the most first-place starts?,get_driver_with_most_poles
+Tell me the name of the driver who has set the most pole times.,get_driver_with_most_poles
+Who has been the fastest in qualifying the most times in Formula 1?,get_driver_with_most_poles
+Find the F1 driver with the most career poles.,get_driver_with_most_poles
+Who has taken the most pole positions in modern F1?,get_driver_with_most_poles
+Who holds the record for the most pole positions in Formula 1?,get_driver_with_most_poles
+Can you tell me which driver holds the record for the most pole positions?,get_driver_with_most_poles
+Which driver has secured the most pole spots in F1?,get_driver_with_most_poles
+Who holds the record for the most poles in F1?,get_driver_with_most_poles
+Who is the driver with the most pole positions in F1?,get_driver_with_most_poles
+Who has the most pole positions in Formula 1 history?,get_driver_with_most_poles
+Which driver set the record for the most pole positions in F1?,get_driver_with_most_poles
+Who holds the record for the most F1 pole positions?,get_driver_with_most_poles
+Which Formula 1 driver has the most pole positions?,get_driver_with_most_poles
+Who is the driver with the most career pole positions in F1?,get_driver_with_most_poles
+Can you tell me which driver has the highest number of pole positions in F1?,get_driver_with_most_poles
+Which driver has won the most pole positions in Formula 1?,get_driver_with_most_poles
+Who has the most pole positions in F1 history?,get_driver_with_most_poles
+Which driver has secured the most F1 pole positions?,get_driver_with_most_poles
+Can you tell me who holds the record for the most F1 pole positions?,get_driver_with_most_poles
+Who is the F1 driver with the most pole spots in their career?,get_driver_with_most_poles
+Which F1 driver has the most pole positions of all time?,get_driver_with_most_poles
+Who is the most successful driver when it comes to pole positions?,get_driver_with_most_poles
+Which Formula 1 driver has the most pole positions in a single season?,get_driver_with_most_poles
+Which driver has the record for the most pole positions in a season?,get_driver_with_most_poles
+Who has the most pole positions in F1?,get_driver_with_most_poles
+Can you tell me which driver has the most poles in F1 history?,get_driver_with_most_poles
+Which driver has the highest number of pole positions in F1?,get_driver_with_most_poles
+Who holds the record for the most pole positions in F1?,get_driver_with_most_poles
+Which driver has the most pole positions in Formula 1?,get_driver_with_most_poles
+Who is the driver with the most pole positions in F1 history?,get_driver_with_most_poles
+Which driver has secured the most pole positions in F1?,get_driver_with_most_poles
+Can you tell me who has the most pole positions in F1?,get_driver_with_most_poles
+Who is the F1 driver with the most pole positions?,get_driver_with_most_poles
+Which driver has the most pole positions of all time in F1?,get_driver_with_most_poles
+Who is the most successful driver in terms of pole positions?,get_driver_with_most_poles
+Which driver has the most pole positions in a single F1 season?,get_driver_with_most_poles
+Which driver holds the record for the most pole positions in a season?,get_driver_with_most_poles
+Who holds the record for the most pole positions in Formula 1?,get_driver_with_most_poles
+Can you tell me which driver holds the record for the most pole positions?,get_driver_with_most_poles
+Which driver has secured the most pole spots in F1?,get_driver_with_most_poles
+Who holds the record for the most poles in F1?,get_driver_with_most_poles
+Who is the driver with the most pole positions in F1?,get_driver_with_most_poles
+Who has the most pole positions in Formula 1 history?,get_driver_with_most_poles
+Which driver set the record for the most pole positions in F1?,get_driver_with_most_poles
+Who holds the record for the most F1 pole positions?,get_driver_with_most_poles
+Which Formula 1 driver has the most pole positions?,get_driver_with_most_poles
+Who is the driver with the most career pole positions in F1?,get_driver_with_most_poles
+Can you tell me which driver has the highest number of pole positions in F1?,get_driver_with_most_poles
+Which driver has won the most pole positions in Formula 1?,get_driver_with_most_poles
+Who has the most pole positions in F1 history?,get_driver_with_most_poles
+Which driver has secured the most F1 pole positions?,get_driver_with_most_poles
+Can you tell me who holds the record for the most F1 pole positions?,get_driver_with_most_poles
+Who is the F1 driver with the most pole spots in their career?,get_driver_with_most_poles
+Which F1 driver has the most pole positions of all time?,get_driver_with_most_poles
+Who is the most successful driver when it comes to pole positions?,get_driver_with_most_poles
+Which Formula 1 driver has the most pole positions in a single season?,get_driver_with_most_poles
+Which driver has the record for the most pole positions in a season?,get_driver_with_most_poles
+Which car did McLaren use in 2005?,get_car_in_season
+What was the Ferrari F1 car model in 2010?,get_car_in_season
+Tell me the Williams car for the 1997 season.,get_car_in_season
+Which vehicle did Red Bull compete with in 2012?,get_car_in_season
+Name the car driven by Mercedes in 2016.,get_car_in_season
+Can you list the 2020 F1 cars for each team?,get_car_in_season
+What chassis did Renault use in 2006?,get_car_in_season
+Provide details on the 1988 McLaren car.,get_car_in_season
+What was the official car name for Ferrari in 2018?,get_car_in_season
+Show me all F1 car models from 2015.,get_car_in_season
+Which car was driven by Schumacher in 2002?,get_car_in_season
+What model was Lewis Hamilton’s 2017 Mercedes?,get_car_in_season
+Tell me about the Red Bull car used in 2021.,get_car_in_season
+In 2003 what F1 car did Williams field?,get_car_in_season
+List all F1 constructors and their cars from 2011.,get_car_in_season
+What was the official name of the 2000 Ferrari?,get_car_in_season
+Show me every team’s 2019 car model.,get_car_in_season
+Did McLaren race with the MP4-20 in 2005?,get_car_in_season
+What was the first F1 car of Red Bull Racing?,get_car_in_season
+Which Ferrari model won the 2004 championship?,get_car_in_season
+What car did Ferrari use in the 2015 F1 season?,get_car_in_season
+Which car was used by Mercedes in the 2016 season?,get_car_in_season
+What was Red Bull's car for the 2013 season?,get_car_in_season
+What car did Ferrari race with in the 2009 Formula 1 season?,get_car_in_season
+Which car was used by Mercedes in the 2017 F1 season?,get_car_in_season
+What car did McLaren use during the 2013 F1 season?,get_car_in_season
+Which car did Red Bull Racing use in the 2014 Formula 1 season?,get_car_in_season
+What was the car for Williams in the 2005 Formula 1 season?,get_car_in_season
+Which car did Renault race with in the 2006 F1 season?,get_car_in_season
+What car was used by Honda during the 2008 Formula 1 season?,get_car_in_season
+Which car did Toro Rosso use in the 2018 F1 season?,get_car_in_season
+What car did Sauber use in the 2012 Formula 1 season?,get_car_in_season
+Which car was used by Force India in the 2016 F1 season?,get_car_in_season
+Tell me about the McLaren car in the 2009 F1 season.,get_car_in_season
+Which car did Ferrari use in 2004?,get_car_in_season
+Which car did Red Bull use in the 2012 season?,get_car_in_season
+What was the car of choice for Mercedes in 2018?,get_car_in_season
+Tell me about the Ferrari car in 1997.,get_car_in_season
+What car did Williams use in 1994?,get_car_in_season
+Which car did McLaren race in 2005?,get_car_in_season
+What car did Ferrari use in the 2007 season?,get_car_in_season
+Tell me the model McLaren raced with in 1998.,get_car_in_season
+Which vehicle did Red Bull field in 2012?,get_car_in_season
+Name the official car Mercedes used in 2015.,get_car_in_season
+What was the primary race car for Williams in 2003?,get_car_in_season
+List the F1 cars from the 2018 season.,get_car_in_season
+Which chassis did Renault bring to the 2006 season?,get_car_in_season
+Find out what car Aston Martin used in 2021.,get_car_in_season
+What was the McLaren car's designation in 2000?,get_car_in_season
+Give me the name of the 2019 Ferrari F1 car.,get_car_in_season
+What model did Alfa Romeo compete with in 2020?,get_car_in_season
+Show me the cars used in F1 during 2010.,get_car_in_season
+Which F1 vehicle did Haas introduce in 2016?,get_car_in_season
+Provide details on the 2014 Toro Rosso car.,get_car_in_season
+What was the name of the Red Bull car from 2017?,get_car_in_season
+In 1995 which car did Benetton use for F1?,get_car_in_season
+What racing machine did Lotus field in 2013?,get_car_in_season
+Which car model was driven by Lewis Hamilton in 2011?,get_car_in_season
+Find the official name of the 2002 Williams F1 car.,get_car_in_season
+What was the Ferrari F1 challenger in 1996 called?,get_car_in_season
+Can you tell me the name of the 1988 McLaren car?,get_car_in_season
+Which car did Brawn GP race with in their championship year?,get_car_in_season
+What was the official designation of the 2022 AlphaTauri car?,get_car_in_season
+Tell me about the F1 car used by Force India in 2010.,get_car_in_season
+Which machine did Sauber bring to the 2008 grid?,get_car_in_season
+What was the name of the car Toyota raced in 2005?,get_car_in_season
+Show me all F1 car models from 2016.,get_car_in_season
+What F1 car was used by Ligier in 1997?,get_car_in_season
+What was the 2023 Mercedes F1 car called?,get_car_in_season
+Which car was Schumacher driving in 2001?,get_car_in_season
+What was the main F1 car of Honda in 2006?,get_car_in_season
+Give me the details of the 2012 Caterham F1 car.,get_car_in_season
+Which car did Prost Grand Prix use in 1999?,get_car_in_season
+Tell me the name of the 2017 McLaren race car.,get_car_in_season
+What vehicle did Jaguar compete with in 2004?,get_car_in_season
+What was the name of the first ever Red Bull F1 car?,get_car_in_season
+Which model was raced by Ferrari in the 2020 season?,get_car_in_season
+Show me the official name of the 2015 Manor F1 car.,get_car_in_season
+Which team used the RB18 in Formula 1?,get_car_in_season
+What car was Leclerc driving in 2024?,get_car_in_season

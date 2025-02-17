@@ -1,0 +1,21 @@
+# Ignore large model files, and logs
+results/
+intent_classifier_model/
+*.pkl
+*.pt
+*.h5
+*.onnx
+*.log
+*.pth
+
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/

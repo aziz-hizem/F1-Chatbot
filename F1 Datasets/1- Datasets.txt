@@ -1,0 +1,138 @@
+===results.csv ===
+   resultId  raceId  driverId  constructorId  ... rank  fastestLapTime fastestLapSpeed statusId
+0         1      18         1              1  ...    2        1:27.452         218.300        1
+1         2      18         2              2  ...    3        1:27.739         217.586        1
+2         3      18         3              3  ...    5        1:28.090         216.719        1
+3         4      18         4              4  ...    7        1:28.603         215.464        1
+4         5      18         5              1  ...    1        1:27.418         218.385        1
+
+[5 rows x 18 columns]
+Columns: ['resultId', 'raceId', 'driverId', 'constructorId', 'number', 'grid', 'position', 'positionText', 'positionOrder', 'points', 'laps', 'time', 'milliseconds', 'fastestLap', 'rank', 'fastestLapTime', 'fastestLapSpeed', 'statusId']
+
+===seasons.csv ===
+   year                                                url
+0  2009  http://en.wikipedia.org/wiki/2009_Formula_One_...
+1  2008  http://en.wikipedia.org/wiki/2008_Formula_One_...
+2  2007  http://en.wikipedia.org/wiki/2007_Formula_One_...
+3  2006  http://en.wikipedia.org/wiki/2006_Formula_One_...
+4  2005  http://en.wikipedia.org/wiki/2005_Formula_One_...
+Columns: ['year', 'url']
+
+===sprint_results.csv ===
+   resultId  raceId  driverId  constructorId  ...  milliseconds  fastestLap fastestLapTime statusId
+0         1    1061       830              9  ...       1538426          14       1:30.013        1
+1         2    1061         1            131  ...       1539856          17       1:29.937        1
+2         3    1061       822            131  ...       1545928          17       1:29.958        1
+3         4    1061       844              6  ...       1549704          16       1:30.163        1
+4         5    1061       846              1  ...       1562537          16       1:30.566        1
+
+[5 rows x 16 columns]
+Columns: ['resultId', 'raceId', 'driverId', 'constructorId', 'number', 'grid', 'position', 'positionText', 'positionOrder', 'points', 'laps', 'time', 'milliseconds', 'fastestLap', 'fastestLapTime', 'statusId']
+
+===status.csv ===
+   statusId        status
+0         1      Finished
+1         2  Disqualified
+2         3      Accident
+3         4     Collision
+4         5        Engine
+Columns: ['statusId', 'status']
+
+===constructor_standings.csv ===
+   constructorStandingsId  raceId  constructorId  points  position positionText  wins
+0                       1      18              1    14.0         1            1     1
+1                       2      18              2     8.0         3            3     0
+2                       3      18              3     9.0         2            2     0
+3                       4      18              4     5.0         4            4     0
+4                       5      18              5     2.0         5            5     0
+Columns: ['constructorStandingsId', 'raceId', 'constructorId', 'points', 'position', 'positionText', 'wins']
+
+===constructors.csv ===
+   constructorId constructorRef  ... nationality                                               
+ url
+0              1        mclaren  ...     British               http://en.wikipedia.org/wiki/McLaren
+1              2     bmw_sauber  ...      German            http://en.wikipedia.org/wiki/BMW_Sauber
+2              3       williams  ...     British  http://en.wikipedia.org/wiki/Williams_Grand_Pr...
+3              4        renault  ...      French  http://en.wikipedia.org/wiki/Renault_in_Formul...
+4              5     toro_rosso  ...     Italian   http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+
+[5 rows x 5 columns]
+Columns: ['constructorId', 'constructorRef', 'name', 'nationality', 'url']
+
+===driver_standings.csv ===
+   driverStandingsId  raceId  driverId  points  position positionText  wins
+0                  1      18         1    10.0         1            1     1
+1                  2      18         2     8.0         2            2     0
+2                  3      18         3     6.0         3            3     0
+3                  4      18         4     5.0         4            4     0
+4                  5      18         5     4.0         5            5     0
+Columns: ['driverStandingsId', 'raceId', 'driverId', 'points', 'position', 'positionText', 'wins']
+
+===drivers.csv ===
+   driverId   driverRef  ... nationality                                             url
+0         1    hamilton  ...     British     http://en.wikipedia.org/wiki/Lewis_Hamilton       
+1         2    heidfeld  ...      German      http://en.wikipedia.org/wiki/Nick_Heidfeld       
+2         3     rosberg  ...      German       http://en.wikipedia.org/wiki/Nico_Rosberg       
+3         4      alonso  ...     Spanish    http://en.wikipedia.org/wiki/Fernando_Alonso       
+4         5  kovalainen  ...     Finnish  http://en.wikipedia.org/wiki/Heikki_Kovalainen       
+
+[5 rows x 9 columns]
+Columns: ['driverId', 'driverRef', 'number', 'code', 'forename', 'surname', 'dob', 'nationality', 'url']
+
+===lap_times.csv ===
+   raceId  driverId  lap  position      time  milliseconds
+0     841        20    1         1  1:38.109         98109
+1     841        20    2         1  1:33.006         93006
+2     841        20    3         1  1:32.713         92713
+3     841        20    4         1  1:32.803         92803
+4     841        20    5         1  1:32.342         92342
+Columns: ['raceId', 'driverId', 'lap', 'position', 'time', 'milliseconds']
+
+===pit_stops.csv ===
+   raceId  driverId  stop  lap      time duration  milliseconds
+0     841       153     1    1  17:05:23   26.898         26898
+1     841        30     1    1  17:05:52   25.021         25021
+2     841        17     1   11  17:20:48   23.426         23426
+3     841         4     1   12  17:22:34   23.251         23251
+4     841        13     1   13  17:24:10   23.842         23842
+Columns: ['raceId', 'driverId', 'stop', 'lap', 'time', 'duration', 'milliseconds']
+
+===qualifying.csv ===
+   qualifyId  raceId  driverId  constructorId  number  position        q1        q2        q3  
+0          1      18         1              1      22         1  1:26.572  1:25.187  1:26.714  
+1          2      18         9              2       4         2  1:26.103  1:25.315  1:26.869  
+2          3      18         5              1      23         3  1:25.664  1:25.452  1:27.079  
+3          4      18        13              6       2         4  1:25.994  1:25.691  1:27.178  
+4          5      18         2              2       3         5  1:25.960  1:25.518  1:27.236  
+Columns: ['qualifyId', 'raceId', 'driverId', 'constructorId', 'number', 'position', 'q1', 'q2', 'q3']
+
+===races.csv ===
+   raceId  year  round  circuitId  ... quali_date quali_time sprint_date sprint_time
+0       1  2009      1          1  ...         \N         \N          \N          \N
+1       2  2009      2          2  ...         \N         \N          \N          \N
+2       3  2009      3         17  ...         \N         \N          \N          \N
+3       4  2009      4          3  ...         \N         \N          \N          \N
+4       5  2009      5          4  ...         \N         \N          \N          \N
+
+[5 rows x 18 columns]
+Columns: ['raceId', 'year', 'round', 'circuitId', 'name', 'date', 'time', 'url', 'fp1_date', 'fp1_time', 'fp2_date', 'fp2_time', 'fp3_date', 'fp3_time', 'quali_date', 'quali_time', 'sprint_date', 'sprint_time']
+
+===circuits.csv ===
+   circuitId   circuitRef  ...  alt                                                url
+0          1  albert_park  ...   10  http://en.wikipedia.org/wiki/Melbourne_Grand_P...
+1          2       sepang  ...   18  http://en.wikipedia.org/wiki/Sepang_Internatio...
+2          3      bahrain  ...    7  http://en.wikipedia.org/wiki/Bahrain_Internati...
+3          4    catalunya  ...  109  http://en.wikipedia.org/wiki/Circuit_de_Barcel...
+4          5     istanbul  ...  130         http://en.wikipedia.org/wiki/Istanbul_Park
+
+[5 rows x 9 columns]
+Columns: ['circuitId', 'circuitRef', 'name', 'location', 'country', 'lat', 'lng', 'alt', 'url']
+
+===constructor_results.csv ===
+   constructorResultsId  raceId  constructorId  points status
+0                     1      18              1    14.0     \N
+1                     2      18              2     8.0     \N
+2                     3      18              3     9.0     \N
+3                     4      18              4     5.0     \N
+4                     5      18              5     2.0     \N
+Columns: ['constructorResultsId', 'raceId', 'constructorId', 'points', 'status']

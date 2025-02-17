@@ -1,0 +1,43 @@
+question,intent
+Who won the championship in 2015?,get_championship_winner
+Tell me the F1 champion of 2003.,get_championship_winner
+Which driver was the world champion in 1998?,get_championship_winner
+Give me the F1 title winner for 2010.,get_championship_winner
+Who secured the championship in 1985?,get_championship_winner
+Which teams participated in 2020?,get_teams_in_year
+List the teams that raced in 2018.,get_teams_in_year
+Can you show me the constructors in 2015?,get_teams_in_year
+What teams were competing in F1 in 1999?,get_teams_in_year
+Who were the F1 teams in 2007?,get_teams_in_year
+How many wins does Lewis Hamilton have?,get_driver_wins
+Show me the number of wins for Ayrton Senna.,get_driver_wins
+How many races has Michael Schumacher won?,get_driver_wins
+What’s the win count for Sebastian Vettel?,get_driver_wins
+Tell me the total victories of Fernando Alonso.,get_driver_wins
+Who is the driver with the most wins?,get_driver_with_most_wins
+Which driver has won the most races?,get_driver_with_most_wins
+Who holds the record for the most F1 wins?,get_driver_with_most_wins
+Tell me the racer with the highest number of victories.,get_driver_with_most_wins
+Which F1 driver has the most race wins in history?,get_driver_with_most_wins
+Which team won the constructors' championship in 2019?,get_constructors_championship
+Who are the top three teams in 2004?,get_teams_in_year
+Name the drivers who won races in 1996.,get_race_winners_in_year
+Give me a list of drivers who were champions from 2000 to 2010.,get_drivers_with_multiple_titles
+Who had the most pole positions in 2017?,get_driver_with_most_poles
+What was the winning car in the 2010 season?,get_car_in_season
+Who finished second in the 2014 championship?,get_championship_runner_up
+How many championships has Niki Lauda won?,get_driver_wins
+Show me the teams that raced in 2012.,get_teams_in_year
+Which F1 driver had the most podiums in 2005?,get_driver_with_most_podiums
+Who won the Monaco Grand Prix in 2016?,get_race_winners_in_year
+What was the fastest lap in the 2021 season?,get_fastest_laps_in_season
+Which driver won the most races in the 2008 season?,get_driver_with_most_wins_in_season
+Who finished 3rd in the 2002 championship?,get_championship_runner_up
+How many wins did McLaren achieve in 2009?,get_team_wins_in_year
+What is the best finishing position for Red Bull in 2013?,get_team_finish_in_season
+Tell me the number of races in the 2014 season.,get_number_of_races_in_season
+Who had the most laps led in 2007?,get_driver_with_most_laps_led
+Who had the most retirements in 2000?,get_driver_with_most_retirements_in_season
+Which team won the 2020 constructors' title?,get_constructors_championship
+Tell me the number of constructors in the 1998 season.,get_number_of_teams_in_season
+Which team was the most successful in 2011?,get_team_with_most_success_in_season

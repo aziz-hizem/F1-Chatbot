@@ -2,124 +2,54 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: url('./assets/f1_background.jpg') no-repeat center center fixed;
-  background-size: cover;
   display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
+  overflow: hidden;
+}
+
+/* Ensure that the entire app container takes up the full screen */
+.app-container {
+  display: flex;
+  width: 100vw; /* Ensure full screen width */
+  height: 100vh; /* Ensure full screen height */
+  overflow: hidden;
+}
+
+
+/* Sidebar (left section) */
+.sidebar {
+  width: 250px;
+  background-color: rgb(15, 16, 20);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  height: 100vh; /* Ensure full height */
 }
 
 .chat-container {
-  background-color: rgba(0, 0, 0, 0.7); /* Darker background */
-  border-radius: 20px;
-  width: 90%;  /* Increase width to 90% of the screen */
-  max-width: 1200px; /* Optional: maximum width to prevent it from becoming too large */
-  min-height: 500px;
-  min-width: 1000px; /* Increased height */
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
-  padding: 40px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
-  margin: 0 auto;  /* Center the container horizontally */
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  width: calc(100% - 300px); /* Adjusted to account for sidebar width */
+  height: 100vh; /* Full height */
+  background: no-repeat center center fixed;
+  background-size: cover;
+  background-position: right; /* Ensure the background starts from the right edge */ 
 }
 
 .chat-header {
   text-align: center;
-  font-size: 1.8rem; /* Increased font size */
+  font-size: 1.8rem;
   color: rgba(255, 255, 255, 0.83);
   margin-bottom: 30px;
-  margin-top: -15px;
+   /* Adjusted to remove negative margin */  
 }
 
-.f1-logo {
-  width: 80px; /* Adjust width as needed */
-  height: auto;
-  vertical-align: middle; /* Align logo with text */
-  margin-left: 10px; /* Optional: Add some space between "Formula" and the logo */
-  margin-bottom: 5px;
-}
-
-.chat-box {
-  flex-grow: 1;
-  overflow-y: auto;
-  padding: 20px;
-  max-height: 500px; /* Keep the max height if you need scrolling */
-  display: flex;
-  flex-direction: column;  /* Stack messages vertically */
-  align-items: flex-start; /* Align messages to the left (optional) */
-}
-
-.user, .bot {
-  padding: 15px;
-  border-radius: 12px;
-  margin: 10px 0;
-  font-size: 1.2rem; /* Larger text size */
-}
-
-.user {
-  padding: 15px;
-  border-radius: 12px;
-  margin: 10px 0;
-  font-size: 1rem;
-  color: white;
-  text-align: right;
-  word-wrap: break-word;
-  max-width: 80%;  /* Adjust to prevent the message box from being too wide */
-  display: inline-block;  /* Ensures box size matches text */
-  background-color: rgba(0, 56, 109, 0.741); /* Darker background */
-  align-self: flex-end;
-}
-
-.bot {
-  padding: 15px;
-  border-radius: 12px;
-  margin: 10px 0;
-  font-size: 1rem;
-  background-color: #e0e0e0;
-  color: black;
-  text-align: left;
-  max-width: 80%;  /* Prevents the message box from being too wide */
-  display: inline-block;  /* Ensures box size matches text */
-  word-wrap: break-word;
-  align-self: flex-start;
-}
-
-
-
-.input-container {
-  display: flex;
-  margin-top: 10px;
-}
-
-input {
-  flex: 1;
-  padding: 15px;
-  border: none;
-  border-radius: 25px;
-  font-size: 1.2rem; /* Larger text input */
-  margin-right: 10px;
-}
-
-button {
-  background-color: #09a638;
-  color: white;
-  border: none;
-  padding: 15px;
-  border-radius: 25px;
-  cursor: pointer;
-  font-size: 1.2rem;
-  margin-left: 10px;
-  min-width: 100px; /* Ensure buttons have enough width */
-}
-
-button.cancel {
-  background-color: #e0e0e0;
-  color: black;
-}
-
-
-/* Styling the scrollbar */
 .chat-box {
   flex-grow: 1;
   overflow-y: auto;
@@ -128,21 +58,136 @@ button.cancel {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  scrollbar-width: thin; /* For Firefox */
-  scrollbar-color: #007bff #e0e0e0; /* Custom scrollbar color (thumb and track) */
+  width: 90%;
+  max-width: 1200px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
 
-/* For Webkit browsers (Chrome, Safari, etc.) */
-.chat-box::-webkit-scrollbar {
-  width: 8px;  /* Set the width of the scrollbar */
+.sidebar-header {
+  text-align: center;
+  margin-bottom: 3px;
 }
 
-.chat-box::-webkit-scrollbar-thumb {
-  background-color: #000d1c;  /* Thumb color */
-  border-radius: 10px;  /* Rounded corners */
+.sidebar-header img {
+  width: 100px;
+  height: auto;
 }
 
-.chat-box::-webkit-scrollbar-track {
-  background-color: #e0e0e0;  /* Track color */
-  border-radius: 10px;
+.theme-selection {
+  width: 100%;
+}
+
+.theme-selection h3 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.theme-selection ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.theme-selection li {
+  padding: 10px;
+  margin: 5px 0;
+  background-color: rgb(37, 40, 51);
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.theme-selection li:hover {
+  background-color: rgba(101, 130, 167, 0.734);
+}
+
+.theme-selection li.active {
+  background-color: rgba(0, 49, 112, 0.2);  
+}
+
+
+.f1-logo {
+  width: 80px;
+  height: auto;
+  vertical-align: middle;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.by_hizem {
+  text-align: center;
+  font-size: 0.6rem;
+  font-style: italic;
+  font-family:Arial, Helvetica, sans-serif;
+  color: rgba(255, 255, 255, 0.505);
+  margin-bottom: 30px;
+}
+
+
+.user, .bot {
+  padding: 15px;
+  border-radius: 12px;
+  margin: 10px 0;
+  font-size: 1rem;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user {
+  background-color: rgba(0, 56, 109, 0.741);
+  color: white;
+  text-align: right;
+  align-self: flex-end;
+}
+
+.bot {
+  background-color: #e0e0e0;
+  color: black;
+  text-align: left;
+  align-self: flex-start;
+}
+
+.input-container {
+  display: flex;
+  margin-top: 10px;
+  width: 100%; /* Adjusted to take full width */
+  max-width: 1200px;
+}
+
+input {
+  flex: 1;
+  padding: 15px;
+  border: none;
+  border-radius: 25px;
+  font-size: 1.2rem;
+  margin-right: 10px;
+}
+
+button {
+  border: none;
+  padding: 15px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  min-width: 100px;
+  margin-left: 10px;
+}
+
+button.cancel {
+  background-color: #e0e0e0;
+  color: black;
+}
+
+/* Typing Indicator */
+.typing-indicator {
+  color: white;
+  font-size: 1.2rem;
+  margin-left: 10px;
+}
+
+.theme-selection li img {
+  display: block;
+  margin: 0 auto; /* Center the logo */
 }
